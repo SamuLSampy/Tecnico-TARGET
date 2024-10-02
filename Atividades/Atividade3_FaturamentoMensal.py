@@ -1,7 +1,7 @@
 import json
 
     #Abrir dados.json
-with open('../resources/dados.json') as Arqjson:
+with open("./resources/dados.json") as Arqjson:
     dados = json.load(Arqjson)
 
     # Valores Iniciais
