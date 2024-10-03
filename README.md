@@ -49,4 +49,4 @@ Todos os testes da TARGET se localizam na pasta *"Atividades"* em modulos separa
 
 ## Considerações finais
 
-Desde já, agradeço imensamente a oportunidade de participar desse processo seletivo e pela atenção de vocês!
+Desde já, agradeço imensamente a oportunidade de participar desse processo seletivo e pela atenção de vocês! Certamente essas atividades desenvolveram meus conhecimentos sendo uma incrivel experiência, muito obrigado!
